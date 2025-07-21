@@ -1,0 +1,13 @@
+# Ignore build output
+bin/
+obj/
+*.user
+*.rsuser
+*.suo
+*.userprefs
+*.csproj.FileListAbsolute.txt
+*.cache
+*.log
+*.pdb
+*.dbmdl
+*.jfm
