@@ -2,7 +2,15 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 
 ## Getting Started
 
-First, run the development server:
+Create a `.env.local` file in this directory with your Supabase credentials. The
+project expects the following keys:
+
+```bash
+SUPABASE_URL=
+SUPABASE_ANON_KEY=
+```
+
+Then run the development server:
 
 ```bash
 npm run dev
