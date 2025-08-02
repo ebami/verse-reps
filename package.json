@@ -1,0 +1,10 @@
+{
+  "name": "verse-reps-scripts",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "@supabase/supabase-js": "^2.53.0",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.0.0"
+  }
+}
